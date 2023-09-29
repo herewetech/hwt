@@ -31,9 +31,10 @@
 package main
 
 import (
-	"hwt/cmd"
 	"log"
 	"os/exec"
+
+	"github.com/herewetech/hwt/cmd"
 )
 
 func main() {

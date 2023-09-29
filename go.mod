@@ -1,4 +1,4 @@
-module hwt
+module github.com/herewetech/hwt
 
 go 1.21.1
 
